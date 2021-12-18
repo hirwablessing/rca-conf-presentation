@@ -4,7 +4,7 @@ colorSchema: 'auto'
 layout: intro
 logoHeader: '/logo.svg'
 eventLogo: 'logo-white-rca.png'
-eventUrl: 'https://vuejs.amsterdam/'
+eventUrl: ''
 twitter: '@graphicblessing and @dabagire'
 twitterUrl: ''
 
@@ -95,7 +95,7 @@ Powered by creators everywhere.
 - **[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)** - Extract CSS and build beautiful styleguides.
 - **[Daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)** - The Homepage Developers Deserve.
 - **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)** - Identify technologies on websites.
-- **[More ...](https://chrome.google.com/webstore/category/extensions?hl=en)** - All Browser extensions . 
+- **[More ...](https://chrome.google.com/webstore/category/extensions?hl=en)** - All Browser extensions .
 
 ---
 
@@ -107,7 +107,7 @@ Powered by creators everywhere.
 ---
 logoHeader: '/logo.svg'
 eventLogo: 'logo-white-rca.png'
-eventUrl: 'https://vuejs.amsterdam/'
+eventUrl: ''
 twitter: ''
 twitterUrl: 'https://twitter.com/alvaro_code'
 presenterImage: 'https://res.cloudinary.com/alvarosaburido/image/upload/v1622370075/as-portfolio/alvaro_saburido.jpg'
