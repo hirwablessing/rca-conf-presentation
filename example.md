@@ -97,6 +97,7 @@ Powered by creators everywhere.
 
 - **[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)** - Extract CSS and build beautiful styleguides.
 - **[Blackbox](https://chrome.google.com/webstore/detail/blackbox/mcgbeeipkmelnpldkobichboakdfaeon?authuser=1&fbclid=IwAR0-t14mftVZ21agq9Zf23yafMzlJpcqLTTOyLTiRQtOh_vb6vi6sTgrpiM)** - Copy the code from any coding video or live video calls and paste it in your text editor just like you copy code from GitHub & Stack Overflow.
+- **[What Font ?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)** - The easiest way to identify fonts on any website.
 - **[Daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)** - The Homepage Developers Deserve.
 - **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)** - Identify technologies which a website is made off.
 - **[More ...](https://chrome.google.com/webstore/category/extensions?hl=en)** - All Browser extensions .
