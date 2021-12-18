@@ -5,7 +5,7 @@ layout: intro
 logoHeader: '/logo.svg'
 eventLogo: 'http://rca.ac.rw/images/logo-white-rca.png'
 eventUrl: 'https://vuejs.amsterdam/'
-twitter: '@dabagire and @graphicblessing'
+twitter: '@graphicblessing and @dabagire'
 twitterUrl: ''
 
 ---
@@ -19,37 +19,6 @@ twitterUrl: ''
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
 </div>
-
-
-
-
----
-
-
-# What is a Developer Tookit ⚙️?
-
-A. D. A set of software routines and utilities used to help programmers write an application.
-
-
----
-
-
-# Some useful websites
-
-This is a selected list of some wonderfull useful websites for developers
-
-- **[shortcuts.design](https://shortcuts.design/)** - Every shortcut for designers/developers, centralized and searchable.
-- **[Moodli](https://moodly.site/)** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
-
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
 
 ---
 
@@ -70,6 +39,40 @@ Hover on the bottom-left corner to see the navigation's controls panel
 
 
 ---
+
+
+
+# What is a Developer Tookit ⚙️?
+
+A. D. A set of software routines and utilities used to help programmers write an application.
+
+
+---
+
+
+# Some useful websites
+
+This is a selected list of some wonderfull useful websites for developers
+
+- **[shortcuts.design](https://shortcuts.design/)** - Every shortcut for designers/developers, centralized and searchable.
+- **[Moodli](https://moodly.site/)** - theme can be shared and used with npm packages
+- **[Tuts Node](https://www.tutsnodes.com/)** - Free Education for Everyone – Free Courses and Tutorials
+- **[Code House](https://codehouse.vercel.app/ )** - built-in recording and camera view
+- **[Unsplash](https://unsplash.com/)** - The internet’s source of freely-usable images.
+Powered by creators everywhere.
+- **[Dribble](https://dribbble.com/)** - Discover the world’s top designers & creatives. Get design inspirations
+
+
+---
+
+# Bonus Tools
+
+These are some of the bonus tools to check out
+
+- **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
+
+
+---
 logoHeader: '/logo.svg'
 eventLogo: 'http://rca.ac.rw/images/logo-white-rca.png'
 eventUrl: 'https://vuejs.amsterdam/'
@@ -81,4 +84,4 @@ class: 'text-center align-self-center justify-self-center'
 
 # Gracias totales
 
-[Documentations](https://sli.dev) / [GitHub Repo](https://github.com/slidevjs/slidev)
+Thank you for your attention! You're awesome 🥳
