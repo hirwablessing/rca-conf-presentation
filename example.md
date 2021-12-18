@@ -97,7 +97,7 @@ Powered by creators everywhere.
 
 - **[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)** - Extract CSS and build beautiful styleguides.
 - **[Daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)** - The Homepage Developers Deserve.
-- **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)** - Identify technologies on websites.
+- **[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)** - Identify technologies which a website is made off.
 - **[More ...](https://chrome.google.com/webstore/category/extensions?hl=en)** - All Browser extensions .
 
 ---
