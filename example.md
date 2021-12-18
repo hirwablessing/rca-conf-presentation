@@ -55,9 +55,9 @@ A. D. A set of software routines and utilities used to help programmers write an
 This is a selected list of some wonderfull useful websites for developers
 
 - **[shortcuts.design](https://shortcuts.design/)** - Every shortcut for designers/developers, centralized and searchable.
-- **[Moodli](https://moodly.site/)** - theme can be shared and used with npm packages
-- **[Tuts Node](https://www.tutsnodes.com/)** - Free Education for Everyone – Free Courses and Tutorials
-- **[Code House](https://codehouse.vercel.app/ )** - built-in recording and camera view
+- **[Moodli](https://moodly.site/)** - Relax and focus on work through ambient nature sounds
+- **[Tuts Node](https://www.tutsnodes.com/)** - Free Education for Everyone – Free premium courses and tutorials
+- **[Code House](https://codehouse.vercel.app/ )** - World biggest storehouse of developer cheatsheets
 - **[Unsplash](https://unsplash.com/)** - The internet’s source of freely-usable images.
 Powered by creators everywhere.
 - **[Dribble](https://dribbble.com/)** - Discover the world’s top designers & creatives. Get design inspirations
@@ -75,8 +75,8 @@ Powered by creators everywhere.
 - **[Codepen](https://codepen.io/)** - The best place to build, test, and discover front-end code.
 - **[Icons 8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
 - **[Animister](https://animista.net/)** - CSS inspiration animations on demand.
-- **[CSS Button Generator](https://css3buttongenerator.com/)** - Generate a button for you choices.
-- **[Dev docs](https://devdocs.io/)** - Understand the basic concepts for free.
+- **[CSS Button Generator](https://css3buttongenerator.com/)** - Generate a button of your choice and get its source code.
+- **[Dev docs](https://devdocs.io/)** - Understand the basic concepts for free. It just works offline 🤯
 - **[Undesign](https://undesign.learn.uno/)** - Collection of free design tools and resources for makers, developers and designers.
 
 ---
