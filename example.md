@@ -12,7 +12,7 @@ twitterUrl: ''
 
 # Developers' Toolkit ⚙️
 
-💻 slides for developers
+💻 slides for developers 🚀
 
 <div class="pt-12">
   <span @click="next" class="px-2 p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10">
@@ -110,6 +110,7 @@ Powered by creators everywhere.
 - **[Photopea](https://www.photopea.com/)** - An alternative to Photoshop but on the web
 - **[Photoshop on the web](https://assets.adobe.com/cloud-documents#)** - Try out photoshop beta on the web 
 - **[Stack overflow](https://stackoverflow.com/)** - Where developers learn, share and build greate things. Ask any code related question here
+- **[Twitter](https://stackoverflow.com/)** - Discover and know how other people on the other side live
 
 ---
 
