@@ -53,6 +53,40 @@ Read more about [Why Slidev?](https://sli.dev/guide/why)
 
 ---
 
+# Cont ...
+
+- **[Generated photos](https://generated.photos/)** - Generate unique, worry-free model photos.
+- **[Boxicons](https://boxicons.com/)** - High quality web icons.
+- **[Colorinspo](https://colorsinspo.com/)** - Latest color palettes for you.
+- **[Fontsarena](https://fontsarena.com/)** - Inspirational font combinations.
+- **[Codepen](https://codepen.io/)** - The best place to build, test, and discover front-end code.
+- **[Icons 8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
+- **[Animister](https://animista.net/)** - CSS animations on demand.
+- **[CSS Button Generator](https://css3buttongenerator.com/)** - Generate a button for you choices.
+- **[Dev docs](https://devdocs.io/)** - Understand the basic concepts for free.
+- **[Undesign](https://undesign.learn.uno/)** - Collection of free design tools and resources for makers, developers and designers.
+
+---
+
+# Some useful VS CODE extensions
+
+- **[Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Launch a development local Server with live reload feature for static & dynamic pages.
+- **[JavaScript ES6 snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)** - Code snippets for JavaScript in ES6 syntax.
+- **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Code formatter using prettier.
+- **[More ...](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs)** - All Visual studio code extensions . 
+
+---
+
+# Some useful Google Chrome extensions
+
+- **[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)** - Extract CSS and build beautiful styleguides.
+- **[Daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)** - The Homepage Developers Deserve.
+- **[Wrappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)** - Identify technologies on websites.
+- **[More ...](https://chrome.google.com/webstore/category/extensions?hl=en)** - All Browser extensions . 
+
+---
+
+
 # Navigation
 
 Hover on the bottom-left corner to see the navigation's controls panel
