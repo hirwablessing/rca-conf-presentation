@@ -102,7 +102,7 @@ Powered by creators everywhere.
 # Bonus Tools
 - **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
 - **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
-
+- **[Stack overflow](https://stackoverflow.com/)** - Where developers learn, share and build greate things.
 
 ---
 logoHeader: '/logo.svg'
