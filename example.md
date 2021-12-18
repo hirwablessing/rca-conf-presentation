@@ -10,7 +10,7 @@ twitterUrl: ''
 
 ---
 
-# Developers Toolkit ⚙️
+# Developers' Toolkit ⚙️
 
 💻 slides for developers
 
@@ -102,6 +102,8 @@ Powered by creators everywhere.
 # Bonus Tools
 - **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
 - **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
+- **[Photopea](https://www.photopea.com/)** - An alternative to Photoshop but on the web
+- **[Photoshop on the web](https://assets.adobe.com/cloud-documents#)** - Try out photoshop on the web beta 
 
 
 ---
