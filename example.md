@@ -70,6 +70,7 @@ Powered by creators everywhere.
 These are some of the bonus tools to check out
 
 - **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
+- **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
 
 
 ---
