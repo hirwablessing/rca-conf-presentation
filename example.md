@@ -74,7 +74,7 @@ Powered by creators everywhere.
 - **[Fontsarena](https://fontsarena.com/)** - Inspirational font combinations.
 - **[Codepen](https://codepen.io/)** - The best place to build, test, and discover front-end code.
 - **[Icons 8](https://icons8.com/)** - Icons, illustrations, photos, music, and design tools.
-- **[Animister](https://animista.net/)** - CSS animations on demand.
+- **[Animister](https://animista.net/)** - CSS inspiration animations on demand.
 - **[CSS Button Generator](https://css3buttongenerator.com/)** - Generate a button for you choices.
 - **[Dev docs](https://devdocs.io/)** - Understand the basic concepts for free.
 - **[Undesign](https://undesign.learn.uno/)** - Collection of free design tools and resources for makers, developers and designers.
@@ -83,7 +83,10 @@ Powered by creators everywhere.
 
 # VS code extensions
 
+- **[Hash Dark Theme](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - A minimal, dark blue theme for VS Code. Btw, this was done by Blessing 😊
+
 - **[Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Launch a development local Server with live reload feature for static & dynamic pages.
+
 - **[JavaScript ES6 snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)** - Code snippets for JavaScript in ES6 syntax.
 - **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Code formatter using prettier.
 - **[More ...](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs)** - All Visual studio code extensions . 
@@ -104,7 +107,7 @@ Powered by creators everywhere.
 - **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
 - **[Photopea](https://www.photopea.com/)** - An alternative to Photoshop but on the web
 - **[Photoshop on the web](https://assets.adobe.com/cloud-documents#)** - Try out photoshop on the web beta 
-
+- **[Stack overflow](https://stackoverflow.com/)** - Where developers learn, share and build greate things. Ask any code related question here
 
 ---
 logoHeader: '/logo.svg'
