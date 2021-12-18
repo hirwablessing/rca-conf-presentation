@@ -35,6 +35,7 @@
   },
   "scripts": {
     "dev": "slidev example.md --open",
+    "start": "slidev example.md --open",
     "build": "slidev build example.md",
     "export": "slidev export example.md",
     "semantic-release": "semantic-release",
