@@ -65,10 +65,7 @@ Powered by creators everywhere.
 
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9a0087f2b3a26d9cf493d15e158282d0f0bef7bc
 # Cont ...
 
 - **[Generated photos](https://generated.photos/)** - Generate unique, worry-free model photos.
@@ -105,32 +102,6 @@ Powered by creators everywhere.
 # Bonus Tools
 - **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
 - **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
-
----
-
-
-# Navigation
-
-Hover on the bottom-left corner to see the navigation's controls panel
-
-### Keyboard Shortcuts
-
-|                                                      |                             |
-| ---------------------------------------------------- | --------------------------- |
-| <kbd>space</kbd> / <kbd>tab</kbd> / <kbd>right</kbd> | next animation or slide     |
-| <kbd>left</kbd>                                      | previous animation or slide |
-| <kbd>up</kbd>                                        | previous slide              |
-| <kbd>down</kbd>                                      | next slide                  |
-<<<<<<< HEAD
-=======
-=======
-# Bonus Tools
-
-These are some of the bonus tools to check out
-
-- **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
-- **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
->>>>>>> 9a0087f2b3a26d9cf493d15e158282d0f0bef7bc
 
 
 ---
