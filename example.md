@@ -3,7 +3,7 @@ theme: none
 colorSchema: 'auto'
 layout: intro
 logoHeader: '/logo.svg'
-eventLogo: 'http://rca.ac.rw/images/logo-white-rca.png'
+eventLogo: 'logo-white-rca.png'
 eventUrl: 'https://vuejs.amsterdam/'
 twitter: '@graphicblessing and @dabagire'
 twitterUrl: ''
@@ -75,7 +75,7 @@ These are some of the bonus tools to check out
 
 ---
 logoHeader: '/logo.svg'
-eventLogo: 'http://rca.ac.rw/images/logo-white-rca.png'
+eventLogo: 'logo-white-rca.png'
 eventUrl: 'https://vuejs.amsterdam/'
 twitter: ''
 twitterUrl: 'https://twitter.com/alvaro_code'
