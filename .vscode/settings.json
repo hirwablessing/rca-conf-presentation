@@ -1,0 +1,10 @@
+{
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "css.validate": false
+}
