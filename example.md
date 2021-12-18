@@ -106,7 +106,7 @@ Powered by creators everywhere.
 - **[Wallpaper Cave](https://wallpapercave.com/)** - Classic wallpapers for your computer, phone
 - **[Sli Dev](https://sli.dev/)** - Make presentations with code! 
 - **[Photopea](https://www.photopea.com/)** - An alternative to Photoshop but on the web
-- **[Photoshop on the web](https://assets.adobe.com/cloud-documents#)** - Try out photoshop on the web beta 
+- **[Photoshop on the web](https://assets.adobe.com/cloud-documents#)** - Try out photoshop beta on the web 
 - **[Stack overflow](https://stackoverflow.com/)** - Where developers learn, share and build greate things. Ask any code related question here
 
 ---
